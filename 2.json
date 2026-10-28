@@ -1,0 +1,16 @@
+
+{
+  "name": "Rimuru NFT #1",
+  "description": "My first ERC-721 NFT, created for Blockchain Section 5 and deployed on Ethereum Sepolia.",
+  "image": "https://creative-frog.github.io/NFTTestRun/Rimuru.png",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Rimuru"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "MyNFT"
+    }
+  ]
+}
